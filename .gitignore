@@ -3,7 +3,7 @@ __pycache__/
 .pytest_cache/
 test-results/
 playwright-report/
-*.pyc
+.pyc
 .env
 downloads/
 .idea
