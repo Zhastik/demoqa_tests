@@ -6,3 +6,4 @@ playwright-report/
 *.pyc
 .env
 downloads/
+.idea
